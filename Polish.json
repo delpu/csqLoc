@@ -1,0 +1,14 @@
+{
+  "settings_title": "Ustawienia",
+  "settings_vsync": "Synchronizacja pionowa",
+  "settings_resolution": "Rozdzielczosc",
+  "settings_fullscreen": "Pelny ekran",
+  "settings_chatenable": "Czat",
+  "settings_fpscounter": "Licznik FPS",
+  "settings_language": "Jezyk",
+  "settings_tab_general": "Ogolne",
+  "settings_tab_audio": "Dzwiek",
+  "settings_audio_master": "Glosnosc Ogolna",
+  "settings_audio_ui": "Interfejs",
+  "settings_audio_background": "Muzyka w tle"
+}

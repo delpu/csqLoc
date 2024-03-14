@@ -1,0 +1,14 @@
+{
+  "settings_title": "Settings",
+  "settings_vsync": "Vsync",
+  "settings_resolution": "Resolution",
+  "settings_fullscreen": "Fullscreen",
+  "settings_chatenable": "Chat",
+  "settings_fpscounter": "Fps counter",
+  "settings_language": "Language",
+  "settings_tab_general": "General",
+  "settings_tab_audio": "Audio",
+  "settings_audio_master": "Master Volume",
+  "settings_audio_ui": "UI Volume",
+  "settings_audio_background" : "Background Volume"
+}
